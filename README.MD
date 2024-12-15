@@ -19,7 +19,7 @@
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
-`git clone https://github.com/AbhiModszYT/chat-bot && cd chat-bot`
+`git clone https://github.com/sahilsi552/chat-bot && cd chat-bot`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
